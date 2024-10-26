@@ -1,0 +1,7 @@
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+Playwright Test Report-ML.html
+Playwright Test Report.html
